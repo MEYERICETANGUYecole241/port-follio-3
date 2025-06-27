@@ -2,7 +2,7 @@
 
 import { motion } from 'framer-motion';
 import { Card, CardContent } from "@/components/ui/card";
-import { ExternalLink, Github, ArrowUpRight } from 'lucide-react';
+import { ExternalLink,  ArrowUpRight } from 'lucide-react';
 import { useInView } from 'react-intersection-observer';
 import FloatingCard from '../3d/FloatingCard';
 

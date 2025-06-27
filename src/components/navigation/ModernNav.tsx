@@ -61,7 +61,7 @@ export default function ModernNav() {
         className="fixed left-6 top-1/2 -translate-y-1/2 z-40"
       >
         <div className="bg-black/10 backdrop-blur-lg border border-white/10 rounded-2xl p-4 space-y-4">
-          {navItems.map((item, index) => (
+          {navItems.map((item) => (
             <motion.button
               key={item.id}
               onClick={() => scrollToSection(item.id)}

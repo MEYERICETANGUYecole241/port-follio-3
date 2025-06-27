@@ -49,7 +49,7 @@ export default function HeroSection() {
                 transition={{ duration: 0.8, delay: 0.5 }}
                 className="text-blue-400 font-mono text-lg"
               >
-                console.log("Hello World");
+                console.log(&rdquo;Hello World&rdquo;);
               </motion.div>
               
               <motion.h1
@@ -75,7 +75,7 @@ export default function HeroSection() {
                   Développeur Frontend Passionné
                 </p>
                 <p className="text-lg text-gray-300 max-w-xl leading-relaxed">
-                  Créateur d'expériences digitales innovantes, alliant 
+                  Créateur d&lsquo;expériences digitales innovantes, alliant 
                   <span className="text-blue-400 font-semibold"> expertise technique </span>
                   et 
                   <span className="text-orange-400 font-semibold"> vision durable</span>. 

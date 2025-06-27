@@ -151,7 +151,7 @@ export default function ContactSection() {
                   </div>
                   <p className="text-gray-300 text-sm">
                     Je suis actuellement disponible pour de nouvelles collaborations. 
-                    N'hésitez pas à me contacter pour discuter de votre projet !
+                    N&lsquo;hésitez pas à me contacter pour discuter de votre projet !
                   </p>
                 </div>
               </FloatingCard>
@@ -173,8 +173,8 @@ export default function ContactSection() {
                 
                 <div className="space-y-6">
                   <p className="text-gray-300 leading-relaxed">
-                    Que vous ayez besoin d'un site vitrine moderne, d'une application web interactive, 
-                    ou d'une refonte complète de votre présence digitale, je suis là pour vous accompagner.
+                    Que vous ayez besoin d&lsquo;un site vitrine moderne, d&lsquo;une application web interactive, 
+                    ou d&lsquo;une refonte complète de votre présence digitale, je suis là pour vous accompagner.
                   </p>
                   
                   <div className="space-y-4">

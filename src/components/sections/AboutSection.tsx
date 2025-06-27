@@ -82,7 +82,7 @@ export default function AboutSection() {
             <FloatingCard delay={0.5}>
               <div className="bg-white/5 backdrop-blur-sm border border-white/10 rounded-2xl p-8">
                 <h3 className="text-2xl font-bold text-white mb-4">
-                  De l'Économie au Code
+                  De l&apos;Économie au Code
                 </h3>
                 <div className="space-y-4 text-gray-300 leading-relaxed">
                   <p>
@@ -91,13 +91,13 @@ export default function AboutSection() {
                     me donnant une vision globale des enjeux sociétaux et environnementaux.
                   </p>
                   <p>
-                    Cette base m'a naturellement orienté vers le développement web, où je peux allier 
+                    Cette base m&apos;a naturellement orienté vers le développement web, où je peux allier 
                     <span className="text-orange-400 font-semibold"> innovation technologique </span>
                     et 
                     <span className="text-green-400 font-semibold"> impact positif</span>.
                   </p>
                   <p>
-                    Aujourd'hui, je crée des expériences digitales qui ne se contentent pas d'être belles et fonctionnelles, 
+                    Aujourd&apos;hui, je crée des expériences digitales qui ne se contentent pas d&#39;être belles et fonctionnelles, 
                     mais qui contribuent aussi à un avenir plus durable et inclusif.
                   </p>
                 </div>
@@ -179,7 +179,7 @@ export default function AboutSection() {
                   <div className="text-3xl mb-2">🚀</div>
                   <h4 className="text-white font-semibold mb-2">Fun Fact</h4>
                   <p className="text-gray-300 text-sm">
-                    J'adore intégrer des animations 3D et des micro-interactions dans mes projets 
+                    J&apos;adore intégrer des animations 3D et des micro-interactions dans mes projets 
                     pour créer des expériences mémorables !
                   </p>
                 </div>
